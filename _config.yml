@@ -1,2 +1,14 @@
+title: Todd Eisworth
+description: Professor of Mathematics at Ohio University
+
+url: "https://toddeisworth.github.io"
+baseurl: ""
+
+repository: toddeisworth/toddeisworth.github.io
+
 remote_theme: matthewkirby/academictemplate
 
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
