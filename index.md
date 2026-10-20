@@ -8,8 +8,9 @@ Professor of Mathematics at Ohio University.
 
 ## Research and Lecture Notes
 
-- [Lecture 1 Midrasha]
-- [Lecture 2 Midrasha]
+- [Lecture 1 Midrasha](lecture1-background.pdf)
+- [Lecture 2 Midrasha](lecture2-comparisons.pdf)
+  
   
 
 - [Sierpiński Colorings and Canonization (notes from Oaxaca 2026)](https://toddeisworth.github.io/sierpinski/)
