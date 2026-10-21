@@ -10,6 +10,7 @@ Professor of Mathematics at Ohio University.
 
 - [Lecture 1 Midrasha](lecture1-background.pdf)
 - [Lecture 2 Midrasha](lecture2-comparisons.pdf)
+- [Lecture 3 Midrasha](lecture3-fixed-point.pdf)
   
   
 
