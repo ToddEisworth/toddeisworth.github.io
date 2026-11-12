@@ -6,14 +6,17 @@ layout: default
 
 Professor of Mathematics at Ohio University.
 
-## Research and Lecture Notes
+##  Lecture Notes
 
 - [Lecture 1 Midrasha](lecture1-background.pdf)
 - [Lecture 2 Midrasha](lecture2-comparisons.pdf)
 - [Lecture 3 Midrasha](lecture3-fixed-point.pdf)
   
-  
-
 - [Sierpiński Colorings and Canonization (notes from Oaxaca 2026)](https://toddeisworth.github.io/sierpinski/)
+
+## Preprints
+
+- [11-12-26 Covering numbers and pcf theory](coveringpcf.pdf)
+- [11-12-26 Normality in generalized Rudin spaces (with Menachem Kojman)](nonnormalrudinspaces.pdf)
 
 </div>
